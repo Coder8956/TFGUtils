@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace TFGUtils.RuntimeUtils
+namespace TFGUtils.Runtime.Utils
 {
-    public static class UtilVector
+    public static class TFGR_UtilsVector
     {
         /// <summary>
         /// 获取鼠标点的世界位置
