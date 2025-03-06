@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TFGUtils.Runtime.Component.Gizmos
+namespace TFGUtils.Runtime.Component.TFGGizmos
 {
     public class TFGR_GizDrawGOCoordinate : MonoBehaviour
     {
